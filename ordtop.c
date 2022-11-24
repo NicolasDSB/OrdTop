@@ -1,6 +1,5 @@
 #include <stdio.h>
 #include <stdlib.h>
-#include <string.h>
 void ordtop(int *vertnapt,int **arestas,int *ordenados, int lin, int nv, int ord, int *vertices);
 int main (){
     int ord = 0;
